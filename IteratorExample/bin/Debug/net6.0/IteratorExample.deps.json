@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IteratorExample/1.0.0": {
+        "dependencies": {
+          "BumbleBikesLibrary": "1.0.0"
+        },
+        "runtime": {
+          "IteratorExample.dll": {}
+        }
+      },
+      "BumbleBikesLibrary/1.0.0": {
+        "runtime": {
+          "BumbleBikesLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IteratorExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BumbleBikesLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

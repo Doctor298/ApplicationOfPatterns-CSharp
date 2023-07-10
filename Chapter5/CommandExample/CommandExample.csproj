@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Real-World-Implementation-of-C-Design-Patterns\chapter-3\BumbleBikesLibrary\BumbleBikesLibrary.csproj" />
+    <ProjectReference Include="..\..\..\Real-World-Implementation-of-C-Design-Patterns\chapter-4\FacadeExample\FacadeExample.csproj" />
+  </ItemGroup>
+
+</Project>

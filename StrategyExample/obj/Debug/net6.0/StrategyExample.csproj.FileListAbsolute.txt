@@ -1,0 +1,15 @@
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\StrategyExample\obj\Debug\net6.0\StrategyExample.csproj.AssemblyReference.cache
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\StrategyExample\obj\Debug\net6.0\StrategyExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\StrategyExample\obj\Debug\net6.0\StrategyExample.AssemblyInfoInputs.cache
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\StrategyExample\obj\Debug\net6.0\StrategyExample.AssemblyInfo.cs
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\StrategyExample\obj\Debug\net6.0\StrategyExample.csproj.CoreCompileInputs.cache
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\StrategyExample\bin\Debug\net6.0\StrategyExample.exe
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\StrategyExample\bin\Debug\net6.0\StrategyExample.deps.json
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\StrategyExample\bin\Debug\net6.0\StrategyExample.runtimeconfig.json
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\StrategyExample\bin\Debug\net6.0\StrategyExample.dll
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\StrategyExample\bin\Debug\net6.0\StrategyExample.pdb
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\StrategyExample\obj\Debug\net6.0\StrategyExample.dll
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\StrategyExample\obj\Debug\net6.0\refint\StrategyExample.dll
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\StrategyExample\obj\Debug\net6.0\StrategyExample.pdb
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\StrategyExample\obj\Debug\net6.0\StrategyExample.genruntimeconfig.cache
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\StrategyExample\obj\Debug\net6.0\ref\StrategyExample.dll

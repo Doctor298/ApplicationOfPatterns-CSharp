@@ -1,0 +1,15 @@
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\Wheelchair_Project\bin\Debug\net6.0\Wheelchair_Project.exe
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\Wheelchair_Project\bin\Debug\net6.0\Wheelchair_Project.deps.json
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\Wheelchair_Project\bin\Debug\net6.0\Wheelchair_Project.runtimeconfig.json
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\Wheelchair_Project\bin\Debug\net6.0\Wheelchair_Project.dll
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\Wheelchair_Project\bin\Debug\net6.0\Wheelchair_Project.pdb
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\Wheelchair_Project\obj\Debug\net6.0\Wheelchair_Project.csproj.AssemblyReference.cache
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\Wheelchair_Project\obj\Debug\net6.0\Wheelchair_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\Wheelchair_Project\obj\Debug\net6.0\Wheelchair_Project.AssemblyInfoInputs.cache
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\Wheelchair_Project\obj\Debug\net6.0\Wheelchair_Project.AssemblyInfo.cs
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\Wheelchair_Project\obj\Debug\net6.0\Wheelchair_Project.csproj.CoreCompileInputs.cache
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\Wheelchair_Project\obj\Debug\net6.0\Wheelchair_Project.dll
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\Wheelchair_Project\obj\Debug\net6.0\refint\Wheelchair_Project.dll
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\Wheelchair_Project\obj\Debug\net6.0\Wheelchair_Project.pdb
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\Wheelchair_Project\obj\Debug\net6.0\Wheelchair_Project.genruntimeconfig.cache
+C:\Users\gpraior\Desktop\My Files\Real-World-ApplicationOfPatterns\Wheelchair_Project\obj\Debug\net6.0\ref\Wheelchair_Project.dll
